@@ -1,20 +1,19 @@
 {
-  "name": "node-hello",
+  "name": "test-github-packages",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple node.js app that servers \"hello world\"",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
+    "url": "git+https://github.com/mehdichara/test-github-packages.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
+    "url": "https://github.com/mehdichara/test-github-packages/issues"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "homepage": "https://github.com/mehdichara/test-github-packages#readme"
 }
