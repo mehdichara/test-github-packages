@@ -1,3 +1,9 @@
-# test-github-packages
+# Node Hello World
 
-Test github packages features with npn
+Simple node.js app that servers "hello world"
+
+Great for testing simple deployments to the cloud
+
+## Run It
+
+`npm start`
